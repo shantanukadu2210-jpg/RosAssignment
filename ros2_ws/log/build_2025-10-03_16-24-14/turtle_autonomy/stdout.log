@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/turtle_autonomy/turtle_autonomy.egg-info
+writing ../../build/turtle_autonomy/turtle_autonomy.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_autonomy/turtle_autonomy.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_autonomy/turtle_autonomy.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_autonomy/turtle_autonomy.egg-info/requires.txt
+writing top-level names to ../../build/turtle_autonomy/turtle_autonomy.egg-info/top_level.txt
+writing manifest file '../../build/turtle_autonomy/turtle_autonomy.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_autonomy/turtle_autonomy.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_autonomy/turtle_autonomy.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kalu/ros2_ws/build/turtle_autonomy/build
+creating /home/kalu/ros2_ws/build/turtle_autonomy/build/lib
+creating /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy
+copying turtle_autonomy/autonomy_node.py -> /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy
+copying turtle_autonomy/odometry_node.py -> /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy
+copying turtle_autonomy/__init__.py -> /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy
+running install
+running install_lib
+creating /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy
+copying /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy/autonomy_node.py -> /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy
+copying /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy/odometry_node.py -> /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy
+copying /home/kalu/ros2_ws/build/turtle_autonomy/build/lib/turtle_autonomy/__init__.py -> /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy
+byte-compiling /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy/autonomy_node.py to autonomy_node.cpython-310.pyc
+byte-compiling /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy/odometry_node.py to odometry_node.cpython-310.pyc
+byte-compiling /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kalu/ros2_ws/install/turtle_autonomy/share/ament_index
+creating /home/kalu/ros2_ws/install/turtle_autonomy/share/ament_index/resource_index
+creating /home/kalu/ros2_ws/install/turtle_autonomy/share/ament_index/resource_index/packages
+copying resource/turtle_autonomy -> /home/kalu/ros2_ws/install/turtle_autonomy/share/ament_index/resource_index/packages
+copying package.xml -> /home/kalu/ros2_ws/install/turtle_autonomy/share/turtle_autonomy
+running install_egg_info
+Copying ../../build/turtle_autonomy/turtle_autonomy.egg-info to /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy-0.0.0-py3.10.egg-info
+running install_scripts
+Installing autonomy_node script to /home/kalu/ros2_ws/install/turtle_autonomy/lib/turtle_autonomy
+Installing odometry_node script to /home/kalu/ros2_ws/install/turtle_autonomy/lib/turtle_autonomy
+writing list of installed files to '/home/kalu/ros2_ws/build/turtle_autonomy/install.log'

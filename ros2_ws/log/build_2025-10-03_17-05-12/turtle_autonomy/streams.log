@@ -1,0 +1,22 @@
+[0.375s] Invoking command in '/home/kalu/ros2_ws/src/turtle_autonomy': PYTHONPATH=/home/kalu/ros2_ws/build/turtle_autonomy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_autonomy build --build-base /home/kalu/ros2_ws/build/turtle_autonomy/build install --record /home/kalu/ros2_ws/build/turtle_autonomy/install.log --single-version-externally-managed install_data
+[0.515s] running egg_info
+[0.515s] writing ../../build/turtle_autonomy/turtle_autonomy.egg-info/PKG-INFO
+[0.515s] writing dependency_links to ../../build/turtle_autonomy/turtle_autonomy.egg-info/dependency_links.txt
+[0.515s] writing entry points to ../../build/turtle_autonomy/turtle_autonomy.egg-info/entry_points.txt
+[0.515s] writing requirements to ../../build/turtle_autonomy/turtle_autonomy.egg-info/requires.txt
+[0.515s] writing top-level names to ../../build/turtle_autonomy/turtle_autonomy.egg-info/top_level.txt
+[0.516s] reading manifest file '../../build/turtle_autonomy/turtle_autonomy.egg-info/SOURCES.txt'
+[0.517s] writing manifest file '../../build/turtle_autonomy/turtle_autonomy.egg-info/SOURCES.txt'
+[0.517s] running build
+[0.517s] running build_py
+[0.517s] running install
+[0.517s] running install_lib
+[0.518s] running install_data
+[0.518s] running install_egg_info
+[0.519s] removing '/home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy-0.0.0-py3.10.egg-info' (and everything under it)
+[0.520s] Copying ../../build/turtle_autonomy/turtle_autonomy.egg-info to /home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages/turtle_autonomy-0.0.0-py3.10.egg-info
+[0.520s] running install_scripts
+[0.533s] Installing autonomy_node script to /home/kalu/ros2_ws/install/turtle_autonomy/lib/turtle_autonomy
+[0.533s] Installing odometry_node script to /home/kalu/ros2_ws/install/turtle_autonomy/lib/turtle_autonomy
+[0.533s] writing list of installed files to '/home/kalu/ros2_ws/build/turtle_autonomy/install.log'
+[0.551s] Invoked command in '/home/kalu/ros2_ws/src/turtle_autonomy' returned '0': PYTHONPATH=/home/kalu/ros2_ws/build/turtle_autonomy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kalu/ros2_ws/install/turtle_autonomy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_autonomy build --build-base /home/kalu/ros2_ws/build/turtle_autonomy/build install --record /home/kalu/ros2_ws/build/turtle_autonomy/install.log --single-version-externally-managed install_data

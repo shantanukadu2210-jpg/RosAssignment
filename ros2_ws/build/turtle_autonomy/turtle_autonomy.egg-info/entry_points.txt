@@ -1,0 +1,4 @@
+[console_scripts]
+autonomy_node = turtle_autonomy.autonomy_node:main
+odometry_node = turtle_autonomy.odometry_node:main
+
